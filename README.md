@@ -1,79 +1,45 @@
-# MATEUS GOMES DUARTE | Desenvolvedor Java
-## 🧑‍💼 Estágio em Desenvolvimento Java
+# MATEUS GOMES DUARTE
+### DESENVOLVEDOR JAVA
+------
+## CONTATO
+Contato: (12) 99229-3718 </br>
+www.linkedin.com/in/mateusgd/ </br>
+github.com/omattaeus </br>
+gomesduartedev@gmail.com </br>
 
 ------
 
-### 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-### ➡️ Previsão de Conclusão: 12/2024.
+## PERFIL PROFISSIONAL
+Profissional altamente motivado e dedicado, com experiência em projetos pessoais como Desenvolvedor Java. Possuo habilidade em Java, Spring Boot, Spring MVC, Micro-Services. Tenho aplicados esses conhecimentos em projetos pessoais que estão em meu GitHub, como a API RH, API CRUD e API BOOK. Sou conhecido por gostar de resolver problemas, pensamento analítico e capacidade de trabalhar em equipe, adaptabilidade e flexibilidade para aprender novas tecnologias.
+
+------
+## FORMAÇÃO ACADÊMICA
+Graduação em Análise e Desenvolvimento de Sistemas, Universidade Paulista, Cursando </br>
+3° Semestre </br>
+Previsão de Conclusão: 12/2024 </br>
+
 -------
+## EXPERIÊCNIA PROFISSIONAL
+#### API RH |  Gerenciamento
+Aplicação desenvolvida com foco em gerenciamento de RH, como cadastro de vagas e candidatos.
+Utilizei Java, Spring Boot, Swagger, MySQL e Padrão MVC. Teve como foco a criação de API para solucionar situações do RH, garantir a coesão de vagas, candidatos e funcionários.
 
-#### ✅ SOFT SKILLS
-Criatividade<br/> 
-Resolução de Problemas<br/> 
-Flexilidade<br/> 
-Adaptabilidade
-
-------
-
-## 💻 TECNOLOGIAS 
-Java | Spring Boot | JPA\
-API RESTful | Flyway\
-HTML | CSS\
-MySQL | PostgreSQL
+#### API BOOK | Cadastro de Livros
+Aplicação desenvolvida com foco em cadastro de Livros, em formato JSON, YML e XML. Também utilizei do metódo de JWT e Spring Security para autenticação com login e senha para poder estar fazendo requisições.
+Utilizei de tecnologias como Java, Spring Boot, API RESTful, Swagger, MySQL e Spring MVC.
 
 ------
+## HABILIDADES TÉCNICAS
+Java, Spring Boot, API RESTful, Flyway </br>
+JWT, Spring Security </br>
+Swagger, JUnit, Mockito, GIT </br>
+MySQL </br>
+JavaScript, HTML, CSS </br>
 
-## ✅ INGLÊS
-➡️ FALAR: Básico<br/>
-➡️ ESCUTAR: Intermediário<br/>
-➡️ LEITURA: Intermediário<br/>
-➡️ ESCREVER: Intermediário
+## PADRÕES DE PROJETO
+Spring MVC </br>
+Micro-Services </br>
 
-------
-
-# SOBRE
-✅ Sou um apaixonado por programação e desenvolvimentos de sistemas,
-comecei a estudar programação pelo Gustavo Guanabara (Curso em Video),
-do qual tive meu primeiro contato com programação no curso de Lógica de Programação.
-Desde de então venho adquirindo conhecimentos em Java, Spring boot, API REST, JPA, Flyway, MySQL, PostgreSQL e também HTML e CSS.
-Sou um apaixonado em desenvolver soft skills, como liderança, flexibilidade, resolução de problemas e
-ser uma pessoa adaptável a diversas situações.
-
-------
-
-# EXPERIÊNCIA PROFISSIONAL
-#### ✅ ATACADÂO - 10/2022 à 01/2023
-Empacotar compras<br/>
-Devolução de compras<br/>
-Pegar carrinho no estacionamento<br/> 
-Demais ajudas na frente de caixa quando necessário!
-#### ➡️ HABILIDADES DESENVOLVIDAS
-Atendimento ao cliente<br/>
-flexibilidade<br/>
-Adaptabilidade
-
-#### ✅ BARBOSA SUPERMERCADOS - 07/2023 à 09/2023
-Repor mercadorias<br/>
-Repor gandolâs<br/>
-Tirar preços de produtos
-#### ➡️ HABILIDADES DESENVOLVIDAS
-Atendimento ao cliente<br/>
-Adaptabilidade.
-
-#### ✅ LOJAS MEL - 12/2023 à 01/2024
-Fazer prospecção de vendas<br/>
-Vender Cartão<br/>
-Repor Mercadorias<br/> 
-Demais ajudas na loja quando necessário!
-#### ➡️ HABILIDADES DESENVOLVIDAS
-Atendimento ao cliente<br/>
-Adaptabilidade<br/>
-Flexiblidade
-
-
-------
-
-## 🧑‍💼 LINKEDIN
-[Linkedin](www.linkedin.com/in/mateusgd) <br/>
-[Email](contatomateusgd@gmail.com)
-
+## IDIOMAS
+Português: Nativo </br>
+Inglês: Intermediário </br>
