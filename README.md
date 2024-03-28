@@ -11,7 +11,7 @@ github.com/omattaeus </br>
 ------
 
 ## PERFIL PROFISSIONAL
-Profissional altamente motivado e dedicado, com experiência em projetos pessoais como Desenvolvedor Java. Possuo habilidade em Java, Spring Boot, Spring MVC, Micro-Services. Tenho aplicados esses conhecimentos em projetos pessoais que estão em meu GitHub, como a API RH, API CRUD e API BOOK. Sou conhecido por gostar de resolver problemas, pensamento analítico e capacidade de trabalhar em equipe, adaptabilidade e flexibilidade para aprender novas tecnologias.
+Profissional altamente motivado e dedicado, com experiência em projetos pessoais como Desenvolvedor Java. Possuo habilidades em Java, Spring Boot, Spring MVC, Microsservices. Tenho aplicados esses conhecimentos em projetos pessoais que estão em meu GitHub. Sou conhecido por gostar de resolver problemas, pensamento analítico e capacidade de trabalhar em equipe, adaptabilidade e flexibilidade para aprender novas tecnologias.
 
 ------
 ## FORMAÇÃO ACADÊMICA
