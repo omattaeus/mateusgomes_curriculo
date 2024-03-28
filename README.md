@@ -1,11 +1,12 @@
 # MATEUS GOMES DUARTE
 ### DESENVOLVEDOR JAVA
+
 ------
 ## CONTATO
 Telefone: (12) 99229-3718 </br>
+gomesduartedev@gmail.com </br>
 www.linkedin.com/in/mateusgd/ </br>
 github.com/omattaeus </br>
-gomesduartedev@gmail.com </br>
 
 ------
 
@@ -14,27 +15,26 @@ Profissional altamente motivado e dedicado, com experiência em projetos pessoai
 
 ------
 ## FORMAÇÃO ACADÊMICA
-Graduação em Análise e Desenvolvimento de Sistemas, Universidade Paulista, Cursando </br>
-3° Semestre </br>
+Graduação em Análise e Desenvolvimento de Sistemas, Universidade Paulista </br>
+Cursando 3° Semestre </br>
 Previsão de Conclusão: 12/2024 </br>
 
 -------
-## EXPERIÊCNIA PROFISSIONAL
-### API RH |  Gerenciamento
-Aplicação desenvolvida com foco em gerenciamento de RH, como cadastro de vagas e candidatos.
-Utilizei Java, Spring Boot, Swagger, MySQL e Padrão MVC. Teve como foco a criação de API para solucionar situações do RH, garantir a coesão de vagas, candidatos e funcionários.
+## PROJETOS DESENVOLVIDOS
+### Sistema de Gerenciamento de Museu
+Sistema desenvolvido com intuito de aplicar soluções para museus interativos virtuais, como geração de ticket, controle de usuários, geração de análise de dados a partir de notas atribuídas para cada seção. Trabalhei com tecnologias como Linguagem C para o desenvolvimento do sistema.
 
 ### API BOOK | Cadastro de Livros
-Aplicação desenvolvida com foco em cadastro de Livros, em formato JSON, YML e XML. Também utilizei do metódo de JWT e Spring Security para autenticação com login e senha para poder estar fazendo requisições.
-Utilizei de tecnologias como Java, Spring Boot, API RESTful, Swagger, MySQL e Spring MVC.
+Aplicação desenvolvida com foco em cadastro de Livros, em formato JSON, YAML e XML. Também utilizei do método JWT e Spring Security para autenticação com login e senha para estar fazendo requisições HTTP. Trabalhei com tecnologias como Java, Spring Boot e MySQL .
 
 ------
 ## HABILIDADES TÉCNICAS
-Java, Spring Boot, API RESTful, Flyway </br>
-JWT, Spring Security </br>
-Swagger, JUnit, Mockito, GIT </br>
-MySQL </br>
-JavaScript, HTML, CSS </br>
+Java, C#, Javascript </br>
+Spring Boot, Spring Cloud </br>
+API RESTful, Flyway </br>
+Swagger, JUnit, Mockito </br>
+Git </br>
+MySQL, PostgreSQL </br>
 
 ## PADRÕES DE PROJETO
 Spring MVC </br>
